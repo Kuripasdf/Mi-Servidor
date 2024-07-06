@@ -2132,3 +2132,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jul2024 20:13:25.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UetDolby left the game
 [06Jul2024 20:13:44.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuripasdf lost connection: Timed out
 [06Jul2024 20:13:44.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuripasdf left the game
+[06Jul2024 20:15:46.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 20:15:46.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 20:20:46.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 20:20:46.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
