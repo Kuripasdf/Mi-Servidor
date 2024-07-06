@@ -1076,3 +1076,6 @@ Things may not work well.
 2024-07-06 19:27:48,318 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: UetDolby[/[0:0:0:0:0:0:0:1]:41596] logged in with entity id 14491 at (-2.300000011920929, 78.0, 5.699999988079071)
 2024-07-06 19:29:07,266 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: Kuripasdf lost connection: Timed out
 2024-07-06 19:29:07,267 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1265)[m: Kuripasdf left the game
+2024-07-06 19:29:40,196 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d39a99e
+2024-07-06 19:29:40,213 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1265)[m: Kuripasdf joined the game
+2024-07-06 19:29:40,265 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Kuripasdf[/[0:0:0:0:0:0:0:1]:47014] logged in with entity id 19306 at (-2.300000011920929, 77.0, 4.300000011920929)
